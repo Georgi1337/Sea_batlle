@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Sea_batlle\Sea_batlle\bin\Debug\Sea_batlle.exe.config
+C:\Users\admin\source\repos\Sea_batlle\Sea_batlle\bin\Debug\Sea_batlle.exe
+C:\Users\admin\source\repos\Sea_batlle\Sea_batlle\bin\Debug\Sea_batlle.pdb
+C:\Users\admin\source\repos\Sea_batlle\Sea_batlle\obj\Debug\Sea_batlle.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Sea_batlle\Sea_batlle\obj\Debug\MainWindow.baml
+C:\Users\admin\source\repos\Sea_batlle\Sea_batlle\obj\Debug\MainWindow.g.cs
+C:\Users\admin\source\repos\Sea_batlle\Sea_batlle\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\Sea_batlle\Sea_batlle\obj\Debug\Sea_batlle_MarkupCompile.cache
+C:\Users\admin\source\repos\Sea_batlle\Sea_batlle\obj\Debug\Sea_batlle.g.resources
+C:\Users\admin\source\repos\Sea_batlle\Sea_batlle\obj\Debug\Sea_batlle.Properties.Resources.resources
+C:\Users\admin\source\repos\Sea_batlle\Sea_batlle\obj\Debug\Sea_batlle.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Sea_batlle\Sea_batlle\obj\Debug\Sea_batlle.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Sea_batlle\Sea_batlle\obj\Debug\Sea_batlle.exe
+C:\Users\admin\source\repos\Sea_batlle\Sea_batlle\obj\Debug\Sea_batlle.pdb
