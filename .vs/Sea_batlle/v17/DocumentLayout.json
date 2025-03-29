@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Sea_batlle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A5575CE-890E-4F0F-B026-FF466ABD6463}|Sea_batlle\\Sea_batlle.csproj|C:\\Users\\admin\\source\\repos\\Sea_batlle\\sea_batlle\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A5575CE-890E-4F0F-B026-FF466ABD6463}|Sea_batlle\\Sea_batlle.csproj|c:\\users\\admin\\source\\repos\\sea_batlle\\sea_batlle\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A5575CE-890E-4F0F-B026-FF466ABD6463}|Sea_batlle\\Sea_batlle.csproj|solutionrelative:sea_batlle\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A5575CE-890E-4F0F-B026-FF466ABD6463}|Sea_batlle\\Sea_batlle.csproj|c:\\users\\admin\\source\\repos\\sea_batlle\\sea_batlle\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1A5575CE-890E-4F0F-B026-FF466ABD6463}|Sea_batlle\\Sea_batlle.csproj|C:\\Users\\admin\\source\\repos\\Sea_batlle\\sea_batlle\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1A5575CE-890E-4F0F-B026-FF466ABD6463}|Sea_batlle\\Sea_batlle.csproj|solutionrelative:sea_batlle\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Sea_batlle\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\admin\\source\\repos\\Sea_batlle\\Sea_batlle\\MainWindow.xaml.cs",
               "RelativeToolTip": "Sea_batlle\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwEQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T04:28:53.072Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\admin\\source\\repos\\Sea_batlle\\Sea_batlle\\MainWindow.xaml",
               "RelativeToolTip": "Sea_batlle\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-04T03:50:48.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T03:50:48.493Z"
             }
           ]
         }

@@ -52,4 +52,22 @@ namespace Sea_batlle
             remove { CommandManager.RequerySuggested -= value; }
         }
     }
+    public class SeaBattleV
+    {
+        
+        private void CellClick(object parameter)
+        {
+            if (parameter is Cell cell)
+            {
+                cell.IsHit = true;
+                cell.Display = cell.IsShip ? "X" : "O";
+            }
+        }
+
+        private void StartGame(object parameter)
+        {
+            MessageBox.Show("Игра началась!");
+        }
+    }
+
 }
