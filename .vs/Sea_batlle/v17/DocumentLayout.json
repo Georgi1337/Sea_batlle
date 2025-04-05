@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Sea_batlle\\Sea_batlle\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Sea_batlle\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Sea_batlle\\Sea_batlle\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Sea_batlle\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAkwEQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T04:28:53.072Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -43,6 +30,19 @@
               "RelativeToolTip": "Sea_batlle\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-04T03:50:48.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Sea_batlle\\Sea_batlle\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Sea_batlle\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Sea_batlle\\Sea_batlle\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Sea_batlle\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:28:53.072Z",
+              "EditorCaption": ""
             }
           ]
         }
